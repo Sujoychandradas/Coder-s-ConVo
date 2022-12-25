@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213832389514",
+    "project_id": "chat-app-fb10e",
+    "storage_bucket": "chat-app-fb10e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213832389514:android:50850a744fad6cf9a02e73",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213832389514-2trsepapbd61l7gr15ai0hqopnmsi9tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ0g-tiDk_HfFCl4wU5abeSs5nsVoN_vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213832389514-2trsepapbd61l7gr15ai0hqopnmsi9tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
